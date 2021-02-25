@@ -1,2 +1,12 @@
 # apk-installer
-This library is used for installing APK's without any other extra codes. It's easy to use. Just import the library, and add a little bit of codes and you are done.
+
+APK Installer Library is an library used for installing APK's instantly and also this library are working on Android 10 device when installing APK.
+
+How to use it?
+
+1. Import the Library
+* Download the library and import it in your projects.
+
+2. Go to resource folder, then create a xml folder and add provider_paths.xml file.
+
+</Test>
