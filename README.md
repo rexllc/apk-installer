@@ -9,4 +9,5 @@ How to use it?
 
 2. Go to resource folder, then create a xml folder and add provider_paths.xml file.
 
-</Test>
+Add this codes in your xml file.
+
