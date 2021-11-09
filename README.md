@@ -9,7 +9,7 @@ How to use it?
 
 2. Go to resource folder, then create a xml folder and add provider_paths.xml file.
 
-3. Install APK as '''ApkInstaller.install(this, "apk-path);'''
+3. Install APK as ```ApkInstaller.install(this, "apk-path);```
 
 Add this codes in your xml file.
 
